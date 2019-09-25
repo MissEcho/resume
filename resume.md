@@ -1,7 +1,6 @@
     
 # 联系方式
 - 手机：15988466021
-
 - Email：wujrecho@qq.com 
 - QQ：1769408090
 
@@ -13,7 +12,7 @@
  - 本科/东华理工-软件工程
  - 工作年限：3年
  - 技术博客：https://blog.csdn.net/MissEcho0918
- - Github：http://github.com/MissEcho
+ - Github：http://github.com/MissEcho  [动态简历](https://missecho.github.io/resume/public/index.html)
  - 期望职位：高级前端开发
  - 期望薪资：税前月薪19～22k，特别喜欢的公司可例外
  - 期望城市：杭州滨江
