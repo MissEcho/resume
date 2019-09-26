@@ -9,7 +9,6 @@
 
 # 个人信息
  - 吴菊荣/女/1994
-
  - 本科/东华理工-软件工程
  - 工作年限：3年
  - 技术博客：https://blog.csdn.net/MissEcho0918
@@ -119,13 +118,14 @@
 以下均为我熟练使用的技能
 
 - Web开发：Node
-
 - 前端框架：Bootstrap/jQuery/vue.js/HTML5/ionic
 - 前端工具：Bower/Gulp/SaSS/LeSS/npm/webpack
 - 版本管理、文档和自动化部署工具：Svn/Git
 - 后台对接：swagger/postman
 - 单元测试：SimpleTest/Qunit
-- 云和开放平台：微信应用开发/支付宝小程序开发     
+- 云和开放平台：微信应用开发/支付宝小程序开发  
+
 </br>
+
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
